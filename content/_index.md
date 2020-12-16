@@ -5,6 +5,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Hugo Business Theme.
+# WhaleDAO - Discover the seeds and create the next whale
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+WhaleDAO is incubated by DAOSquare and is committed to helping high-quality projects around the world build their ecosystem in the Greater China region.
