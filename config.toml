@@ -31,7 +31,7 @@ google_tag_manager_id = ""
   summary_large_truncate = 120
 
   [params.footer]
-  copyright_text = 'Powered by <a class="DAOSquare" href="https://www.da.io">www.zerostatic.io</a>'
+  copyright_text = 'Powered by <a class="DAOSquare" href="https://www.daosquare.io">www.zerostatic.io</a>'
 
 [[menu.main]]
 name = "Services"
