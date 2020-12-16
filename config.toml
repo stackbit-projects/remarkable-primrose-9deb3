@@ -1,6 +1,6 @@
 baseURL = "www.example.com"
 languageCode = "en-us"
-title = "Whale DAO"
+title = "WhaleDAO"
 
 [params]
 google_analytics_id = ""
