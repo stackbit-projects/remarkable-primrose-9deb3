@@ -5,6 +5,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Member Of The DAO
+# Meet The Members Of WhaleDAO
 
 WhaleDAO is composed of blockchain researchers, investors, community operations, media operations and other roles.
