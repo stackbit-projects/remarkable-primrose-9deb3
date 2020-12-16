@@ -7,4 +7,4 @@ intro_image_hide_on_mobile: false
 
 # WhaleDAO
 
-Discover the seeds and create the next whale
+Our vision is to link all value-based creation projects to build a truly prosperous Web3 world together.
