@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="232px" height="48px" viewBox="0 0 232 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Logo</title>
+    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="RuthCalligraph, Ruth Calligraph" font-size="52" font-weight="normal" letter-spacing="1.73333333">
+        <text id="WhaleDAO">
+            <tspan x="4" y="40" fill="#000000">Whale</tspan>
+            <tspan x="130.498667" y="40" fill="#F24088">DAO</tspan>
+        </text>
+    </g>
+</svg>
