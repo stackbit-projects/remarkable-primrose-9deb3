@@ -31,7 +31,7 @@ google_tag_manager_id = ""
   summary_large_truncate = 120
 
   [params.footer]
-  copyright_text = 'Free Hugo theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+  copyright_text = 'Powered by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
 
 [[menu.main]]
 name = "Services"
