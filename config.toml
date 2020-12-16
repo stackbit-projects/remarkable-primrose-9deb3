@@ -14,7 +14,7 @@ google_tag_manager_id = ""
   mobile = "images/logo/logo-mobile.svg"
   desktop = "images/Logo.svg"
   desktop_height = "36px"
-  alt = ""
+  alt = "WhaleDAO"
 
   [params.homepage_meta_tags]
   meta_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
