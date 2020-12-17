@@ -17,7 +17,7 @@ google_tag_manager_id = ""
   alt = "WhaleDAO - Powered by DAOSquare"
 
   [params.homepage_meta_tags]
-  meta_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+  meta_description = ""
   meta_og_title = "Hugo Serif Theme"
   meta_og_type = "website"
   meta_og_url = "https://hugo-serif.netlify.app"
