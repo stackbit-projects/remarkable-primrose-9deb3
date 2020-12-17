@@ -47,8 +47,3 @@ weight = 2
 name = "Home"
 url = "/"
 weight = 1
-
-[[menu.footer]]
-name = "Contact"
-url = "/contact/"
-weight = 2
