@@ -25,7 +25,7 @@ google_tag_manager_id = ""
   meta_og_description = "WhaleDAO is incubated by DAOSquare and is committed to helping high-quality projects around the world build their ecosystem in the Greater China region."
   meta_twitter_card = "summary"
   meta_twitter_site = "@DAOSquare"
-  meta_twitter_creator = "@zerostaticio"
+  meta_twitter_creator = "@DAOSquare"
 
   [params.team]
   summary_large_truncate = 120
