@@ -38,11 +38,6 @@ name = "Services"
 url = "/services/"
 weight = 1
 
-[[menu.main]]
-name = "Team"
-url = "/team/"
-weight = 2
-
 [[menu.footer]]
 name = "Home"
 url = "/"
