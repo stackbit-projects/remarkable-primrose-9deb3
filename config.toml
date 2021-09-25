@@ -42,7 +42,6 @@ weight = 1
 name = "Team"
 url = "/team/"
 weight = 1
-parent = "l"
 
 [[menu.footer]]
 name = "Home"
