@@ -42,7 +42,7 @@ weight = 1
 name = "Team"
 url = "/team"
 weight = 1
-parent = "lorem-ipsum"
+parent = "l"
 
 [[menu.footer]]
 name = "Home"
