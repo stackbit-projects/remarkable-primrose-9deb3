@@ -42,7 +42,7 @@ weight = 1
 identifier = "Team"
 name = "Team"
 url = "lorem-ipsum"
-weight = 0
+weight = 1
 parent = "lorem-ipsum"
 
 [[menu.footer]]
