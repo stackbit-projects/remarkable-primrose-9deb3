@@ -39,7 +39,7 @@ url = "/services/"
 weight = 1
 
 [[menu.main]]
-identifier = "lorem-ipsum"
+identifier = "Team"
 name = "lorem-ipsum"
 url = "lorem-ipsum"
 weight = 0
