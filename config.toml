@@ -38,13 +38,6 @@ name = "Services"
 url = "/services/"
 weight = 1
 
-[[menu.main]]
-identifier = "lorem-ipsum"
-name = "lorem-ipsum"
-url = "lorem-ipsum"
-weight = 0
-parent = "lorem-ipsum"
-
 [[menu.footer]]
 name = "Home"
 url = "/"
